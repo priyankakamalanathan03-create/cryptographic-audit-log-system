@@ -2,7 +2,7 @@
 
 **Production-grade full-stack MERN app with cryptographic SHA-256 hash chaining, tamper-proof audit trails, and role-based access control.**
 
-🔴 [Live Demo](https://cryptographic-audit-log-system.vercel.app) &nbsp;|&nbsp; 📂 [Backend API](https://cryptographic-audit-log-system-backend.onrender.com) &nbsp;|&nbsp; 🔒 [Security Architecture](#-security-architecture)
+🔴 [Live Demo](https://cryptographic-audit-log-system.vercel.app) &nbsp;|&nbsp; 📂 [Backend API](https://cryptographic-audit-log-system-backend.onrender.com)
 
 ### 🔑 Demo Test Accounts
 
@@ -190,15 +190,7 @@ audit-log-system/
 
 ---
 
-## 🚢 Deployment
 
-| Service | Platform | Steps |
-|---|---|---|
-| **Backend** | [Render.com](https://render.com) | Connect GitHub → set env vars → deploy `backend/` |
-| **Frontend** | [Vercel.com](https://vercel.com) | Connect GitHub → set `REACT_APP_API_URL` → deploy `frontend/` |
-| **Database** | MongoDB Atlas | Already cloud-hosted |
-
----
 
 ## 📄 License
 
