@@ -6,7 +6,7 @@
 
 ### 🔑 Demo Test Accounts
 
-Feel free to use these credentials to explore the live demo:
+Use these credentials to explore the live demo:
 
 | Role | Email | Password |
 |---|---|---|
@@ -190,20 +190,7 @@ audit-log-system/
 
 ---
 
-
-
-## 📄 License
-
-MIT — free to use, fork, and build upon.
-
----
-
-<div align="center">
-
 **Built with ❤️ | MERN Stack | SHA-256 Cryptography | Enterprise Security Patterns**
 
 *"Every action leaves a trace. This system makes sure that trace is permanent."*
 
-⭐ Star this repo if it helped you!
-
-</div>
