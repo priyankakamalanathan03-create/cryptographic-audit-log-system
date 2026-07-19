@@ -2,6 +2,18 @@
 
 **Production-grade full-stack MERN app with cryptographic SHA-256 hash chaining, tamper-proof audit trails, and role-based access control.**
 
+🔴 [Live Demo](https://cryptographic-audit-log-system.vercel.app) &nbsp;|&nbsp; 📂 [Backend API](https://cryptographic-audit-log-system-backend.onrender.com) &nbsp;|&nbsp; 🔒 [Security Architecture](#-security-architecture)
+
+### 🔑 Demo Test Accounts
+
+Feel free to use these credentials to explore the live demo:
+
+| Role | Email | Password |
+|---|---|---|
+| **Admin** | `admin@gmail.com` | `csmsriher@123` |
+| **User** | `priya@gmail.com` | `csmsriher@123` |
+| **User** | `radha@gmail.com` | `csmsriher@123` |
+
 ---
 
 ## 🎯 What This Project Does
